@@ -10,7 +10,7 @@ Git stable:  ![Build Status](https://api.travis-ci.org/owncloud/android.svg?bran
 ## Development
 
 ### Project Setup
-Make sure you read [SETUP.md][1] when you start working on this project.
+ Everything needed is in the file: [SETUP.md][1].
 
 [0]: https://github.com/owncloud/core
 [1]: https://github.com/owncloud/android/blob/master/SETUP.md
